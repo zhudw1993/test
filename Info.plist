@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://muat.qhins.com/nas/app/ios/BASale.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>itunes显示图片地址</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://image.baidu.com/search/detail?ct=503316480&amp;z=0&amp;ipn=d&amp;word=图片&amp;hs=2&amp;pn=0&amp;spn=0&amp;di=182270&amp;pi=0&amp;rn=1&amp;tn=baiduimagedetail&amp;is=0%2C0&amp;ie=utf-8&amp;oe=utf-8&amp;cl=2&amp;lm=-1&amp;cs=2534506313%2C1688529724&amp;os=1097436471%2C408122739&amp;simid=3354786982%2C133358663&amp;adpicid=0&amp;lpn=0&amp;ln=30&amp;fr=ala&amp;fm=&amp;sme=&amp;cg=&amp;bdtype=0&amp;oriquery=图片&amp;objurl=http%3A%2F%2Fa3.att.hudong.com%2F14%2F75%2F01300000164186121366756803686.jpg&amp;fromurl=ippr_z2C%24qAzdH3FAzdH3Fp7rtwg_z%26e3Bkwthj_z%26e3Bv54AzdH3Ftrw1AzdH3Fwn_89_0c_a8naaaaa8m98bm8d8nmm0cmbanmbm_3r2_z%26e3Bip4s&amp;gsm=1&amp;islist=&amp;querylist=</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.qhb.BASale.uat</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>前海掌中保</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
